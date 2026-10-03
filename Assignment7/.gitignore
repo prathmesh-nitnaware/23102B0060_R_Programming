@@ -1,0 +1,7 @@
+data/Online Retail.xlsx
+data/OnlineRetail.csv
+data/online_retail.rds
+data/*.zip
+.Rhistory
+.Rproj.user
+Customer_Segmentation_files/
